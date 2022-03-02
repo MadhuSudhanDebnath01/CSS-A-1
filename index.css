@@ -1,0 +1,16 @@
+.ul{
+        color:brown;
+font-family: 'Arial Narrow Bold';
+letter-spacing: 3.5px;
+}
+.m{
+        text-decoration: line-through;
+        font-family: 'Franklin Gothic Medium';
+}
+.n{
+        background-color: yellow;
+        font-family: 'Franklin Gothic Medium';
+}
+.o{
+        text-decoration: underline;
+}
